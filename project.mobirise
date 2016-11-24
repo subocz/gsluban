@@ -1,0 +1,903 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.6",
+    "versionPublish": "3.9.2",
+    "name": "Gminna Spółdzielnia ",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "scrollAnimation": "true",
+    "favicon": "",
+    "noImageResize": "",
+    "publishType": "local",
+    "publishGDriveLocation": "",
+    "publishGDrivePath": "",
+    "uniqCompNum": 13,
+    "publishPath": "file:///C:/Users/Andrzej/Documents/GitHub/gsluban"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-122x128-12.png",
+              "height": 128,
+              "alt": "GS Lubań Logo",
+              "link": "http://www.gsluban.pl",
+              "title": "Gminna Spółdzielnia ",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.gsluban.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GS LUBAŃ</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-1\">NIERUCHOMOŚCI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-0\" aria-expanded=\"true\">SKUP ZŁOMU</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2\">PIEKARNIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-0\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron-2000x1500-33.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "GMINNA SPÓŁDZIELNIA",
+          "text": "\"Samopomoc Chłopska\"<br>w Lubaniu<br><br>Na lokalnym rynku nieprzerwanie od 70 lat!",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+        },
+        {
+          "_name": "content6",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content6-1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fac51c"
+          },
+          "text1": "<p>Od dnia 29.08.2016 GS Lubań rozpoczyna</p><h1>SKUP JABŁEK PRZEMYSŁOWYCH</h1>",
+          "text2": "<ul><li>Skup prowadzi punkt przy ul. Izerskiej 7, tel. 75 6464024 wew. 29</li><li>Skupujemy wszystkie odmiany jabłek poza antonówką</li><li>Skupujemy spady o ile nie są nadgnite</li><li>Aktualna cena skupu: <b>250 zł / tona</b></li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nieruchomosci-2000x783-46.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "NIERUCHOMOŚCI",
+          "text": "\u001bLokale użytkowe do wynajęcia i nieruchomości na sprzedaż",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "[sprzedaż] Lokal użytkowy (pub, gastronomia)&nbsp;",
+          "meta": "(Lubań, ul. Izerska 7, ok. 100 m2)"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Na sprzedaż lokal przy ul. Izerskiej 7, w którym już ponad 20 lat funkcjonuje Pub.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Miejsce o ugruntowanej pozycji na rynku gastronomicznym. W lokalu tym odbywały się koncerty, wystawy, przedstawienia kabaretowe.</span></p><p><br></p><p>Lokal o powierzchni około 100m2 rozmieszczony jest na dwóch kondygnacjach. Posiada on dwa ogródki letnie: zewnętrzny od strony ulicy i zabudowany na tyłach lokalu, gdzie stoi grill przystosowany do prowadzenia sprzedaży w sezonie letnim. Ogrzewanie sal: kominek opalany drewnem, toalety ogrzewane elektrycznie.</p><p><br></p><p>Cena do negocjacji.</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3677-2000x1127-39-2000x1127-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3677-2000x1127-39.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3678-2000x1127-72-2000x1127-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3678-2000x1127-72.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3679-2000x1127-34-2000x1127-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3679-2000x1127-34.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3680-2000x1127-6-2000x1127-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3680-2000x1127-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3681-2000x1127-52-2000x1127-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3681-2000x1127-52.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3682-2000x1127-86-2000x1127-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3682-2000x1127-86.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3683-2000x1127-27-2000x1127-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3683-2000x1127-27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3684-2000x1127-74-2000x1127-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3684-2000x1127-74.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3685-2000x1127-99-2000x1127-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3685-2000x1127-99.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3686-2000x1127-2-2000x1127-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3686-2000x1127-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imag3687-2000x1127-77-2000x1127-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag3687-2000x1127-77.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-0",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "[sprzedaż] Zespół magazynów",
+          "meta": "(Lubań, ul. Izerska 7)"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Nieruchomość: Zespół budynków magazynowych (dawniej produkcyjnych) przy ul. Izerskiej 7, znajdujące się na działce gruntu numer 5, obr. IV, AM. 8, dla których w Sądzie Rejonowym w Lubaniu jest prowadzona księga wieczysta Kw. nr 18871.&nbsp;</p><p><br></p><p>Łączna kubatura magazynów: 16 759,31 m3</p><p>Łączna powierzchnia zabudowy magazynów: 1 785,13 m2</p><p>Łączna powierzchnia użytkowa: 3 089,36 m2</p><p>Budynki magazynowe wpisane są do rejestru zabytków.</p><p><br></p><p>Cena do negocjacji. Informacji o stanie technicznym i prawnym udziela Prezes Spółdzielni, ul. Izerska 7 w godzinach urzędowania. Informacje można uzyskać osobiście w siedzibie Spółdzielni lub pod nr. tel.: 506 047 090</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn1-2000x1401-46-2000x1401-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn1-2000x1401-46.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn2-2000x2901-19-2000x2901-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn2-2000x2901-19.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn3-2000x1650-53-2000x1650-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn3-2000x1650-53.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn4-2000x2596-4-2000x2596-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn4-2000x2596-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn5-2000x2887-1-2000x2887-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn5-2000x2887-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn6-2000x1401-24-2000x1401-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn6-2000x1401-24.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn7-2000x1408-15-2000x1408-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn7-2000x1408-15.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn8-2000x1341-20-2000x1341-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn8-2000x1341-20.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn9-2000x2024-76-2000x2024-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn9-2000x2024-76.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn10-2000x2916-64-2000x2916-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn10-2000x2916-64.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn11-2000x2865-69-2000x2865-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn11-2000x2865-69.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn12-2000x1392-83-2000x1392-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn12-2000x1392-83.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn13-2000x1160-32-2000x1160-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn13-2000x1160-32.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn14-2000x1564-27-2000x1564-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn14-2000x1564-27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn15-2000x2916-85-2000x2916-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn15-2000x2916-85.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn16-2000x2886-87-2000x2886-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn16-2000x2886-87.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn17-2000x1382-8-2000x1382-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn17-2000x1382-8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/magazyn18-2000x1292-86-2000x1292-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magazyn18-2000x1292-86.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "[sprzedaż] Nieruchomość gruntowa, zabudowana",
+          "meta": "(Lubań, Nawojów Łużycki 67)"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Przedmiotem sprzedaży jest nieruchomość gruntowa zabudowana budynkiem o charakterze usługowym (pawilon handlowy) o powierzchni użytkowej 76,30m2. Budynek w dobrym stanie techniczno-użytkowym. Nieruchomość położona w granicach działki nr 215, AM-1, Obr. 0006-Nawojów Łuzycki, o powierzchni 900m2, w Nawojowie Łużyckim Nr 67, gmina Lubań.</p><p><br></p><p>Teren posiada podstawowe zagospodarowanie (energia elektryczna, wodociąg) oraz średnie zagospodarowanie (częściowe ogrodzenie, chodnik, zieleń niska i drzewa (przy drodze). Zgodnie z obowiązującym planem zagospodarowania przestrzennego, nieruchomość położona w terenie zainwestowania wiejskiego (MR).</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161108-092250-2000x1500-0-2000x1500-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161108-092250-2000x1500-0.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161108-092311-2000x1500-61-2000x1500-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161108-092311-2000x1500-61.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161108-092409-2000x1500-82-2000x1500-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161108-092409-2000x1500-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161108-092435-2000x1500-33-2000x1500-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161108-092435-2000x1500-33.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161108-092508-2000x1500-68-2000x1500-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161108-092508-2000x1500-68.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161108-092534-2000x1500-41-2000x1500-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161108-092534-2000x1500-41.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/skup1-2000x1367-92.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "SKUP ZŁOMU",
+          "text": "<p>Punkt Skupu, ul. Izerska 7 (baza gs), tel. 75 6464024 wew. 29</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "content6",
+          "_anchor": "content6-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Skup to jedna z podstawowych działalności Spółdzielni. Oferujemy najwyższą cenę skupu w okolicy..</p><p><br></p><p>Działalność ta koncentruje się na obrocie następującymi towarami:&nbsp;</p><ul><li>złom stalowy</li><li>złom metali kolorowych</li><li>owoce (skub jabłek w sezonie)</li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oferujemy także usługę ważenia na wadze samochodowej do 40 ton.</span><br></p>",
+          "text2": "<p>Jesteśmy w posiadaniu wszystkich koniecznych zezwoleń związanych z obrotem złomem.&nbsp;</p><p><br></p><p>Nasze atuty:</p><ul><li>działanie zgodne z wymaganiami ochrony środowiska</li><li>długoletnie doświadczenie i profesjonalizm w działaniu</li><li>płynność finansowa – krótkie terminy płatności</li></ul><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/spreadsheet/pub?key=0ArwjPhOtFIL1dEtiMmU5SDV0NTVhM3VhVFdsdkhhMnc&amp;single=true&amp;gid=0&amp;output=pdf\" data-toolbar=\"-mbrBtnMove\">POBIERZ AKTUALNY CENNIK</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/piek2-2000x976-8.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "PIEKARNIA",
+          "text": "<p>ul. Leśna 41, tel. 75 7222381</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2016 <a href=\"http://subocz.pl\">Andrzej Subocz</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Piekarnia Gminnej Spółdzielni \"Samopomoc Chłopska\" w Lubaniu cały swój wysiłek poświęca na stałą poprawę jakości swoich produktów, ze szczególnym uwzględnieniem ich bezpieczeństwa zdrowotnego, przez wszechstronne zaangażowanie pracowników działających na wszystkich szczeblach przedsiębiorstwa.&nbsp;</p><p><br></p><p>Produkcję prowadzimy przestrzegając rygorystycznych zasad, zabezpieczających otoczenie wytwarzania produktu, poprzez eliminowanie zagrożeń pochodzenia fizycznego, chemicznego oraz mikrobiologicznego.&nbsp;</p><p><br></p><p>W 2006 r. wdrożyliśmy system HACCP, który pozwala na zabezpieczenie produktu w toku jego wytwarzania. System ten polega na nieustannym monitorowaniu jakości wyrobów, w szczególności pod względem ich bezpieczeństwa i higieny, na każdym etapie produkcji, a także podczas transportu i dystrybucji. Opiera się na systematycznym kontrolowaniu miejsc newralgicznych łańcucha produkcyjnego i nie dopuszczeniu do przekroczenia ustalonych limitów krytycznych parametrów. Dzięki temu pieczywo posiada zawsze stałą, wysoką jakość i jest bezpieczne. Produkujemy także przestrzegając norm i przepisów dotyczących ochrony środowiska. Permanentnie badamy wpływ naszej produkcji na środowisko.&nbsp;</p><p><br></p><p>Pracownicy znają politykę jakości przedsiębiorstwa oraz są przez firmę szkoleni i instruowani w zakresie bezpieczeństwa żywności.&nbsp;</p><p>Wszyscy jesteśmy zaangażowani w sprawę wytwarzania produktów zaspokajających potrzeby Konsumentów, tak jak i w dalszy pomyślny rozwój współpracy z Klientami i dostawcami.</p><p><br></p><p>Dążymy do uzyskania coraz wyższej jakości swoich produktów, ku zadowoleniu ich odbiorców i naszej własnej satysfakcji. Naszym dążeniem jest stałe wychodzenie naprzeciw wymaganiom Klientów i przewidywanie ich przyszłych oczekiwań.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-122x128-12-128x134-80.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adres</strong><br>\nul. Izerska 7<br>\n59-800 Lubań",
+          "text2": "<strong>Kontakt</strong><br>\nEmail: sekretariat@gsluban.pl<br>\nTel/Fax: 75 6464024<br>",
+          "text3": "<p><strong>Linki</strong><br>\n<a href=\"https://docs.google.com/spreadsheet/pub?key=0ArwjPhOtFIL1dEtiMmU5SDV0NTVhM3VhVFdsdkhhMnc&amp;single=true&amp;gid=0&amp;output=pdf\">Cennik skupu złomu</a></p>"
+        }
+      ]
+    }
+  }
+}
